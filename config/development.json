@@ -1,7 +1,6 @@
 {
     "env": "development",
     "mongo": {
-        "dbName": "woogie-feed",
         "host": "mongodb://localhost/places"
     }
 }
